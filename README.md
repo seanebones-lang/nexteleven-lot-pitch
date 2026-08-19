@@ -1,8 +1,24 @@
 # NextEleven Lot Management — public pitch
 
-Customer-facing product: **NextEleven Lot Management**
+Marketing pitch for **NextEleven Lot Management** (offline vehicle retail desk).
 
-- Live: https://seanebones-lang.github.io/nexteleven-lot-pitch/
-- PDF: `NextEleven_Lot_Rate_Card.pdf`
-- Sibling Parts: https://seanebones-lang.github.io/nexteleven-parts-pitch/
-- Company: https://www.mothership-ai.com/
+| | |
+|--|--|
+| **Live (canonical)** | https://www.mothership-ai.com/lot/ |
+| **Pages twin** | https://seanebones-lang.github.io/nexteleven-lot-pitch/ |
+| **Rate card** | [NextEleven_Lot_Rate_Card.pdf](./NextEleven_Lot_Rate_Card.pdf) |
+| **Company** | https://www.mothership-ai.com/ |
+| **Eng (private)** | https://github.com/seanebones-lang/Car-Lot |
+
+## Pricing (public)
+
+- **$495** first machine · installed
+- **$195** each machine after
+- Support **$200/hr** as needed · no monthly fee
+
+## Contents
+
+- `index.html` — full pitch
+- `NextEleven_Lot_Rate_Card.pdf` — commercial rate card
+
+© NextEleven LLC. Proprietary product marketing — not the eng source tree.
